@@ -1,0 +1,22 @@
+# R/RStudio files
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Shiny token for deployment
+rsconnect/
+
+# Environment files
+.Renviron
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+*.swp
+*~
