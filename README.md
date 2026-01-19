@@ -4,11 +4,12 @@ An R Shiny application for exploring patterns in fatal bear attacks across North
 
 ## Live Demo
 
-*[Add link here if you deploy to shinyapps.io]*
+https://jaydenp.shinyapps.io/bear-attack-analysis/
 
 ## Screenshot
 
-*[Add a screenshot of your app here]*
+<img width="1346" height="406" alt="image" src="https://github.com/user-attachments/assets/59cdbde6-97af-4b0e-b973-463b1bac3828" />
+
 
 ## Features
 
