@@ -8,7 +8,7 @@ https://jaydenp.shinyapps.io/bear-attack-analysis/
 
 ## Screenshot
 
-<img width="1346" height="406" alt="image" src="https://github.com/user-attachments/assets/59cdbde6-97af-4b0e-b973-463b1bac3828" />
+![App Screenshot](screenshot.png)
 
 
 ## Features
